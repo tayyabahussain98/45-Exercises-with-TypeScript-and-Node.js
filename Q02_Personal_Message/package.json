@@ -1,0 +1,16 @@
+{
+  "name": "q02_personal_message",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Tayyaba",
+  "license": "MIT",
+  "description": "",
+  "devDependencies": {
+    "@types/node": "^22.1.0"
+  }
+}
